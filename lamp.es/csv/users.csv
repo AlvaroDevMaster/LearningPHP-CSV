@@ -1,4 +1,0 @@
-UserId,Username,Avatar,Email,PasswordHash,Role,SubscriptionId,CreatedAt
-1,juanperez,resources/avatar_hombre.png,jperez@example.com,a82cb2070f,hast,1,2023-09-01
-2,mariasanchez,resources/avatar_mujer.png,msanchez@example.com,b79e0d2080,user,2,2023-09-03
-3,carloslopez,resources/avatar_hombre.png,clopez@example.com,c43d0e2153,admin,3,2023-09-05
